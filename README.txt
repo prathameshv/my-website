@@ -49,8 +49,7 @@ Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
 
 Demo Images:
-http://pexels.com
-http://plmd.me
+https://unsplash.com/
 
 Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
