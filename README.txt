@@ -1,7 +1,4 @@
 
-TITLE: 
-Elate - One Page Responsive Free HTML5 template
-
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
 REFACTORED BY PRATHAMESH VERLEKAR
@@ -55,5 +52,5 @@ Demo Images:
 http://pexels.com
 http://plmd.me
 
-Mafnific Popup
+Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
