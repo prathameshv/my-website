@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6 {
   background-image: -ms-linear-gradient(top left, #21825c 0%, #a4d792 100%);
 }
 #fh5co-home, #fh5co-home .text-wrap {
-  height: 1100px;
+  height: 700px;
 }
 #fh5co-home .text-wrap {
   display: table;
@@ -1406,10 +1406,6 @@ h1, h2, h3, h4, h5, h6 {
   animation-duration: .3s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
-}
-
-.strikethrough{
-  text-decoration: line-through;
 }
 
 /*# sourceMappingURL=style4.css.map */
